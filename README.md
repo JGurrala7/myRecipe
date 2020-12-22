@@ -1,15 +1,24 @@
-It's a chocolate cake, yummy in taste; 
+It's a chocolate cake, yummy in taste.
 
-Servings - 12;
-prep time 10 min;
-cook time 35 min;
+Servings - 12
+
+Prep time - 10 min
+
+Cook time - 35 min
+
 
 Ingredients -
+
 1 3/4 cup All purpose flour;
+
 2 cups sugar;
+
 2 eggs;
+
 1/2 cup oil;
+
 1 cup milk; 
+
 3/4 cup coco powder butter; 
 1 1/2 tea spoon baking powder; 
 1 tea spoon vanilla extract; 
